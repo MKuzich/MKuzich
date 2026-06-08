@@ -33,10 +33,3 @@ UX, and reliable APIs.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-kuzich/)
 [![Email](https://img.shields.io/badge/-mykhailokuzich@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mykhailokuzich@gmail.com)
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MKuzich&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKuzich&layout=compact&hide_border=true&langs_count=8" />
-</p>
