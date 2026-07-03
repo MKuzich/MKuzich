@@ -11,7 +11,7 @@ I build full-stack web applications that are fast, maintainable, and shipped on
 schedule. My focus is clean architecture, solid API design, and front-end
 experiences that perform across devices.
 
-At **Webba** I've built and launched **26+ commercial projects** and maintain
+At **Webba** I've built and launched **30+ commercial projects** and maintain
 ongoing sites for **60+ clients** — consistently finishing **~20% ahead of
 schedule**. One **Laravel + Filament + Livewire** architecture I designed became
 the internal reference standard for the whole team.
