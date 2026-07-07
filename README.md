@@ -56,7 +56,9 @@ I ship faster with modern AI workflows — **Claude Code** and **MCP** — while
 > "He doesn't just get the job done — he makes sure it's done right."  
 > — *Arnie Schrage, Test Automation Engineer*
 
-### 📫 Get in touch
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-kuzich/)
-[![Email](https://img.shields.io/badge/-mykhailokuzich@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mykhailokuzich@gmail.com)
+<p align="center">
+  <b>Building something that needs to ship on time?</b><br/>
+  <a href="mailto:mykhailokuzich@gmail.com">mykhailokuzich@gmail.com</a> · <a href="https://www.linkedin.com/in/mykhailo-kuzich/">LinkedIn</a>
+</p>
