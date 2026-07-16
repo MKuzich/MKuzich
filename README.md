@@ -42,7 +42,7 @@ the internal reference standard for the whole team.
 
 I ship faster with modern AI workflows — **Claude Code** and **MCP** — while keeping architecture and code quality firmly human-owned. Certified by Anthropic and Google:
 
-[Claude Code in Action](https://verify.skilljar.com/c/qzvs6rgcrng5) · [Claude 101](https://verify.skilljar.com/c/nkevip4w8e2r) · [Claude Code 101](https://verify.skilljar.com/c/zwnzbwaungma) · [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/kdeed85rz8js) · [AI Capabilities & Limitations](https://verify.skilljar.com/c/fn3mqusxu3kp) · [Google AI Fundamentals](https://www.credly.com/badges/301e6d90-477d-4b70-becd-c19624f314b5) · [Building with the Claude API](https://www.credly.com/badges/301e6d90-477d-4b70-becd-c19624f314b5)
+[Claude Code in Action](https://verify.skilljar.com/c/qzvs6rgcrng5) · [Claude 101](https://verify.skilljar.com/c/nkevip4w8e2r) · [Claude Code 101](https://verify.skilljar.com/c/zwnzbwaungma) · [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/kdeed85rz8js) · [AI Capabilities & Limitations](https://verify.skilljar.com/c/fn3mqusxu3kp) · [Google AI Fundamentals](https://www.credly.com/badges/301e6d90-477d-4b70-becd-c19624f314b5) · [Building with the Claude API](https://verify.skilljar.com/c/frqmpe4ojs2q)
 
 ## 🎓 Education
 
